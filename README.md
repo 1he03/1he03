@@ -20,5 +20,6 @@
 <h2>Languages</h2>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hlever-1&show_icons=true&theme=tokyonight&title_color=F08080&text_color=D5F5E3&hide_border=false&locale=en&cache_seconds=1900&layout=compact" alt="hlever-1" /></p>
 
-
+<h2>Wakatime</h2>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hlever&cache_seconds=1900" />
 
