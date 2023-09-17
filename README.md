@@ -18,7 +18,7 @@
 <p ><img src="https://github-readme-streak-stats.herokuapp.com/?user=hlever-1&theme=highcontrast" alt="bemoxpro" /></p>
 
 <h2>Languages</h2>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hlever-1&show_icons=true&theme=tokyonight&title_color=F08080&text_color=D5F5E3&hide_border=false&locale=en&cache_seconds=1800&layout=compact" alt="hlever-1" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hlever-1&show_icons=true&theme=tokyonight&title_color=F08080&text_color=D5F5E3&hide_border=false&locale=en&cache_seconds=1900&layout=compact" alt="hlever-1" /></p>
 
 
 
