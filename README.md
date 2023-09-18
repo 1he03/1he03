@@ -7,7 +7,10 @@
 <a href="https://www.youtube.com/channel/UC5q_y8OLwq3Q8yAqUONgM9Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hlever" height="30" width="40" /></a>
 <a href="https://discord.gg/ggkTHYNqTT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bp2MdeEKpU" height="30" width="40" /></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=bemoxpro&label=Profile Views&color=14a997&style=plastic" alt="bemoxpro" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bemoxpro&label=Profile Views&color=14a997&style=plastic" alt="bemoxpro" />
+  <a href="https://wakatime.com/@1d2431a7-5944-422f-9e7e-aef882af2659"><img src="https://wakatime.com/badge/user/1d2431a7-5944-422f-9e7e-aef882af2659.svg" alt="Total time coded since Sep 17 2023" /></a>
+</p>
 
 
 
